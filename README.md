@@ -1,2 +1,0 @@
-# Todoist
-Aprendendo Next  
